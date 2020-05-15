@@ -1,4 +1,4 @@
-package com.wubin.hello;
+package com.wubin.hello.dto;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
